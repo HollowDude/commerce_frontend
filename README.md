@@ -25,7 +25,7 @@ Check it out on Vercel: [https://commerce-eight-ruddy.vercel.app/](https://comme
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/commerce-frontend.git
+   git clone https://github.com/HollowDude/commerce_frontend.git
    ```
 2. Install dependencies:
    ```bash
